@@ -1,0 +1,776 @@
+District,Credit Crores,State,Total MSME,Credit_Lakh_Msme,Is_Aspirational,Gap_Percentage,Priority_Level
+Nicobars,6.52,Andaman and Nicobar Islands,706,0.92,False,-76.04,2. High Gap
+North and Middle Andaman,59.53,Andaman and Nicobar Islands,2883,2.06,False,-46.35,3. Underfunded
+South Andamans,1004.02,Andaman and Nicobar Islands,15179,6.61,False,72.14,4. Stable
+Alluri Sitharama Raju,119.51,Andhra Pradesh,8991,1.33,False,-65.36,2. High Gap
+Anakapalli,1778.12,Andhra Pradesh,41666,4.27,False,11.2,4. Stable
+Ananthapuramu,4821.34,Andhra Pradesh,126218,3.82,False,-0.52,3. Underfunded
+Annamayya,1649.44,Andhra Pradesh,61887,2.67,False,-30.47,3. Underfunded
+Bapatla,1692.97,Andhra Pradesh,43666,3.88,False,1.04,4. Stable
+Chittoor,2851.38,Andhra Pradesh,102346,2.79,False,-27.34,3. Underfunded
+Dr. B.R. Ambedkar Konaseema,3457.57,Andhra Pradesh,49673,6.96,False,81.25,4. Stable
+East Godavari,7376.78,Andhra Pradesh,110677,6.67,False,73.7,4. Stable
+Eluru,3554.23,Andhra Pradesh,64051,5.55,False,44.53,4. Stable
+Guntur,20529.92,Andhra Pradesh,128026,16.04,False,317.71,4. Stable
+Kakinada,6709.81,Andhra Pradesh,74612,8.99,False,134.11,4. Stable
+Krishna,19413.35,Andhra Pradesh,115124,16.86,False,339.06,4. Stable
+Kurnool,4276.0,Andhra Pradesh,115018,3.72,False,-3.12,3. Underfunded
+Nandyal,2100.91,Andhra Pradesh,63137,3.33,False,-13.28,3. Underfunded
+Ntr,44084.99,Andhra Pradesh,94373,46.71,False,1116.41,4. Stable
+Palnadu,3328.28,Andhra Pradesh,61191,5.44,False,41.67,4. Stable
+Parvathipuram Manyam,410.4,Andhra Pradesh,14280,2.87,False,-25.26,3. Underfunded
+Prakasam,4943.89,Andhra Pradesh,86460,5.72,False,48.96,4. Stable
+Sri Potti Sriramulu Nellore,6955.78,Andhra Pradesh,111785,6.22,False,61.98,4. Stable
+Sri Sathya Sai,2024.88,Andhra Pradesh,57181,3.54,False,-7.81,3. Underfunded
+Srikakulam,2986.89,Andhra Pradesh,65120,4.59,False,19.53,4. Stable
+Tirupati,6547.3,Andhra Pradesh,80863,8.1,False,110.94,4. Stable
+Visakhapatnam,36246.76,Andhra Pradesh,127274,28.48,True,641.67,4. Stable
+Vizianagaram,2023.09,Andhra Pradesh,58296,3.47,True,-9.64,3. Underfunded
+West Godavari,8938.57,Andhra Pradesh,113013,7.91,False,105.99,4. Stable
+Y.S.R.,4410.5,Andhra Pradesh,108887,4.05,True,5.47,4. Stable
+Anjaw,4.22,Arunachal Pradesh,242,1.75,False,-54.43,2. High Gap
+Changlang,37.74,Arunachal Pradesh,1723,2.19,False,-42.97,3. Underfunded
+Dibang Valley,1.98,Arunachal Pradesh,181,1.09,False,-71.61,2. High Gap
+East Kameng,10.3,Arunachal Pradesh,899,1.15,False,-70.05,2. High Gap
+East Siang,109.49,Arunachal Pradesh,2112,5.18,False,34.9,4. Stable
+Kamle,4.34,Arunachal Pradesh,264,1.65,False,-57.03,2. High Gap
+Kra Daadi,7.81,Arunachal Pradesh,365,2.14,False,-44.27,3. Underfunded
+Kurung Kumey,10.63,Arunachal Pradesh,344,3.09,False,-19.53,3. Underfunded
+Leparada,12.26,Arunachal Pradesh,435,2.82,False,-26.56,3. Underfunded
+Lohit,43.14,Arunachal Pradesh,1333,3.24,False,-15.62,3. Underfunded
+Longding,7.65,Arunachal Pradesh,437,1.75,False,-54.43,2. High Gap
+Lower Dibang Valley,27.31,Arunachal Pradesh,1411,1.94,False,-49.48,3. Underfunded
+Lower Siang,13.99,Arunachal Pradesh,500,2.8,False,-27.08,3. Underfunded
+Lower Subansiri,43.85,Arunachal Pradesh,1604,2.73,False,-28.91,3. Underfunded
+Namsai,33.93,Arunachal Pradesh,2512,1.35,True,-64.84,1. Critical (Aspirational Desert)
+Pakke Kessang,1.73,Arunachal Pradesh,182,0.95,False,-75.26,2. High Gap
+Papum Pare,1972.48,Arunachal Pradesh,9726,20.28,False,428.13,4. Stable
+Shi Yomi,3.5,Arunachal Pradesh,144,2.43,False,-36.72,3. Underfunded
+Siang,5.72,Arunachal Pradesh,324,1.77,False,-53.91,2. High Gap
+Tawang,54.39,Arunachal Pradesh,872,6.24,False,62.5,4. Stable
+Tirap,9.42,Arunachal Pradesh,490,1.92,False,-50.0,3. Underfunded
+Upper Siang,5.52,Arunachal Pradesh,364,1.52,False,-60.42,2. High Gap
+Upper Subansiri,23.94,Arunachal Pradesh,867,2.76,False,-28.13,3. Underfunded
+West Kameng,199.26,Arunachal Pradesh,2080,9.58,False,149.48,4. Stable
+West Siang,41.98,Arunachal Pradesh,1153,3.64,False,-5.21,3. Underfunded
+Bajali,186.11,Assam,5355,3.48,False,-9.37,3. Underfunded
+Baksa,108.76,Assam,18864,0.58,True,-84.9,1. Critical (Aspirational Desert)
+Barpeta,1204.45,Assam,51653,2.33,True,-39.32,3. Underfunded
+Biswanath,409.13,Assam,20636,1.98,False,-48.44,3. Underfunded
+Bongaigaon,817.09,Assam,25085,3.26,False,-15.1,3. Underfunded
+Cachar,2104.44,Assam,70918,2.97,False,-22.66,3. Underfunded
+Charaideo,200.06,Assam,12806,1.56,False,-59.38,2. High Gap
+Chirang,246.69,Assam,13635,1.81,False,-52.86,2. High Gap
+Darrang,759.84,Assam,39864,1.91,True,-50.26,1. Critical (Aspirational Desert)
+Dhemaji,393.72,Assam,22675,1.74,False,-54.69,2. High Gap
+Dhubri,717.8,Assam,44630,1.61,True,-58.07,1. Critical (Aspirational Desert)
+Dibrugarh,4012.44,Assam,48084,8.34,False,117.19,4. Stable
+Dima Hasao,72.52,Assam,4968,1.46,False,-61.98,2. High Gap
+Goalpara,603.93,Assam,29558,2.04,True,-46.87,3. Underfunded
+Golaghat,2232.02,Assam,36763,6.07,False,58.07,4. Stable
+Hailakandi,265.41,Assam,20195,1.31,True,-65.89,1. Critical (Aspirational Desert)
+Hojai,326.39,Assam,27517,1.19,False,-69.01,2. High Gap
+Jorhat,2144.11,Assam,33537,6.39,False,66.41,4. Stable
+Kamrup,1249.78,Assam,65940,1.9,False,-50.52,2. High Gap
+Kamrup Metro,28109.05,Assam,86377,32.54,False,747.4,4. Stable
+Karbi Anglong,231.38,Assam,14748,1.57,False,-59.11,2. High Gap
+Karimganj,1346.89,Assam,32294,4.17,False,8.59,4. Stable
+Kokrajhar,414.15,Assam,26140,1.58,False,-58.85,2. High Gap
+Lakhimpur,869.34,Assam,49886,1.74,False,-54.69,2. High Gap
+Majuli,50.74,Assam,5027,1.01,False,-73.7,2. High Gap
+Marigaon,464.53,Assam,29729,1.56,False,-59.38,2. High Gap
+Nagaon,2189.9,Assam,58349,3.75,False,-2.34,3. Underfunded
+Nalbari,645.67,Assam,37616,1.72,False,-55.21,2. High Gap
+Sivasagar,1126.32,Assam,29387,3.83,False,-0.26,3. Underfunded
+Sonitpur,1617.88,Assam,39924,4.05,False,5.47,4. Stable
+South Salmara Mancachar,77.36,Assam,10583,0.73,False,-80.99,2. High Gap
+Tamulpur,111.68,Assam,5491,2.03,False,-47.14,3. Underfunded
+Tinsukia,2390.81,Assam,44826,5.33,False,38.8,4. Stable
+Udalguri,232.11,Assam,20025,1.16,True,-69.79,1. Critical (Aspirational Desert)
+West Karbi Anglong,22.67,Assam,4918,0.46,False,-88.02,2. High Gap
+Araria,1457.29,Bihar,52737,2.76,True,-28.13,3. Underfunded
+Arwal,264.02,Bihar,10333,2.56,False,-33.33,3. Underfunded
+Aurangabad,2776.9,Bihar,43142,6.44,True,67.71,4. Stable
+Banka,697.73,Bihar,33191,2.1,True,-45.31,3. Underfunded
+Begusarai,3315.37,Bihar,61229,5.41,True,40.89,4. Stable
+Bhagalpur,3470.04,Bihar,75143,4.62,False,20.31,4. Stable
+Bhojpur,1503.77,Bihar,39831,3.78,False,-1.56,3. Underfunded
+Buxar,994.49,Bihar,26443,3.76,False,-2.08,3. Underfunded
+Darbhanga,2462.29,Bihar,68535,3.59,False,-6.51,3. Underfunded
+Gaya,3693.49,Bihar,88335,4.18,True,8.85,4. Stable
+Gopalganj,1247.74,Bihar,41764,2.99,False,-22.14,3. Underfunded
+Jamui,716.02,Bihar,28856,2.48,True,-35.42,3. Underfunded
+Jehanabad,570.93,Bihar,16992,3.36,False,-12.5,3. Underfunded
+Kaimur (Bhabua),790.88,Bihar,21778,3.63,False,-5.47,3. Underfunded
+Katihar,1652.8,Bihar,59971,2.76,True,-28.13,3. Underfunded
+Khagaria,664.84,Bihar,29298,2.27,True,-40.89,3. Underfunded
+Kishanganj,927.2,Bihar,27662,3.35,False,-12.76,3. Underfunded
+Lakhisarai,445.11,Bihar,15247,2.92,False,-23.96,3. Underfunded
+Madhepura,732.53,Bihar,35438,2.07,False,-46.09,3. Underfunded
+Madhubani,1453.6,Bihar,69650,2.09,False,-45.57,3. Underfunded
+Munger,756.75,Bihar,25959,2.92,False,-23.96,3. Underfunded
+Muzaffarpur,6202.23,Bihar,117836,5.26,True,36.98,4. Stable
+Nalanda,1956.17,Bihar,51701,3.78,False,-1.56,3. Underfunded
+Nawada,944.74,Bihar,35434,2.67,True,-30.47,3. Underfunded
+Pashchim Champaran,1735.06,Bihar,64870,2.67,False,-30.47,3. Underfunded
+Patna,40634.59,Bihar,219953,18.47,False,380.99,4. Stable
+Purbi Champaran,3056.21,Bihar,105381,2.9,False,-24.48,3. Underfunded
+Purnia,3548.71,Bihar,80508,4.41,True,14.84,4. Stable
+Rohtas,2074.22,Bihar,50310,4.12,False,7.29,4. Stable
+Saharsa,1018.07,Bihar,35643,2.86,False,-25.52,3. Underfunded
+Samastipur,2404.76,Bihar,83947,2.86,False,-25.52,3. Underfunded
+Saran,1900.29,Bihar,58810,3.23,False,-15.89,3. Underfunded
+Sheikhpura,352.95,Bihar,11370,3.1,True,-19.27,3. Underfunded
+Sheohar,185.18,Bihar,11002,1.68,False,-56.25,2. High Gap
+Sitamarhi,1315.35,Bihar,57562,2.29,True,-40.36,3. Underfunded
+Siwan,1935.15,Bihar,50334,3.84,False,0.0,4. Stable
+Supaul,779.99,Bihar,46283,1.69,False,-55.99,2. High Gap
+Vaishali,2298.31,Bihar,76700,3.0,False,-21.87,3. Underfunded
+Chandigarh,55074.55,Chandigarh,63235,87.1,False,2168.23,4. Stable
+Balod,532.61,Chhattisgarh,18247,2.92,False,-23.96,3. Underfunded
+Balodabazar-Bhatapara,1193.44,Chhattisgarh,25083,4.76,False,23.96,4. Stable
+Balrampur Ramanujganj,177.4,Chhattisgarh,9660,1.84,False,-52.08,2. High Gap
+Bastar,1122.73,Chhattisgarh,19296,5.82,True,51.56,4. Stable
+Bemetara,446.94,Chhattisgarh,16016,2.79,False,-27.34,3. Underfunded
+Bijapur,39.06,Chhattisgarh,3097,1.26,True,-67.19,1. Critical (Aspirational Desert)
+Bilaspur,8868.63,Chhattisgarh,65231,13.6,False,254.17,4. Stable
+Bilaspur,8868.63,Himachal Pradesh,13609,65.17,False,1597.14,4. Stable
+Dakshin Bastar Dantewada,2832.45,Chhattisgarh,5298,53.46,True,1292.19,4. Stable
+Dhamtari,1284.89,Chhattisgarh,21896,5.87,False,52.86,4. Stable
+Durg,8034.98,Chhattisgarh,71894,11.18,False,191.15,4. Stable
+Gariyaband,265.54,Chhattisgarh,13297,2.0,False,-47.92,3. Underfunded
+Gaurela Pendra Marwahi,190.13,Chhattisgarh,5292,3.59,False,-6.51,3. Underfunded
+Janjgir-Champa,1244.32,Chhattisgarh,34632,3.59,False,-6.51,3. Underfunded
+Jashpur,441.82,Chhattisgarh,14276,3.09,False,-19.53,3. Underfunded
+Kabeerdham,596.02,Chhattisgarh,17341,3.44,False,-10.42,3. Underfunded
+Khairagarh Chhuikhadan Gandai,95.5,Chhattisgarh,5371,1.78,False,-53.65,2. High Gap
+Kondagaon,228.64,Chhattisgarh,11040,2.07,True,-46.09,3. Underfunded
+Korba,4408.84,Chhattisgarh,33498,13.16,True,242.71,4. Stable
+Korea,155.38,Chhattisgarh,10045,1.55,False,-59.64,2. High Gap
+Mahasamund,987.95,Chhattisgarh,25876,3.82,True,-0.52,3. Underfunded
+Manendragarh Chirmiri Bharatpur Mcb,375.38,Chhattisgarh,5183,7.24,False,88.54,4. Stable
+Mohla Manpur Ambagarh Chouki,35.17,Chhattisgarh,3092,1.14,False,-70.31,2. High Gap
+Mungeli,309.07,Chhattisgarh,13107,2.36,False,-38.54,3. Underfunded
+Narayanpur,48.22,Chhattisgarh,2448,1.97,True,-48.7,3. Underfunded
+Raigarh,4989.74,Chhattisgarh,36108,13.82,False,259.9,4. Stable
+Raipur,69705.53,Chhattisgarh,133203,52.33,False,1262.76,4. Stable
+Rajnandgaon,1778.1,Chhattisgarh,35033,5.08,True,32.29,4. Stable
+Sakti,312.42,Chhattisgarh,8274,3.78,False,-1.56,3. Underfunded
+Sukma,29.9,Chhattisgarh,2564,1.17,True,-69.53,1. Critical (Aspirational Desert)
+Surajpur,397.65,Chhattisgarh,12514,3.18,False,-17.19,3. Underfunded
+Surguja,1573.88,Chhattisgarh,23079,6.82,False,77.6,4. Stable
+Uttar Bastar Kanker,489.12,Chhattisgarh,16405,2.98,True,-22.4,3. Underfunded
+Central,145014.95,Delhi,76584,189.35,False,4830.99,4. Stable
+East,87145.28,Delhi,112464,77.49,False,1917.97,4. Stable
+New Delhi,618586.52,Delhi,76658,806.94,False,20914.06,4. Stable
+North,19253.39,Delhi,72294,26.63,False,593.49,4. Stable
+North East,1394.99,Delhi,79837,1.75,False,-54.43,2. High Gap
+North West,19499.81,Delhi,198769,9.81,False,155.47,4. Stable
+Shahdara,4882.52,Delhi,22796,21.42,False,457.81,4. Stable
+South,30777.12,Delhi,120826,25.47,False,563.28,4. Stable
+South East,39124.71,Delhi,46116,84.84,False,2109.38,4. Stable
+South West,39477.52,Delhi,113778,34.7,False,803.65,4. Stable
+West,21025.36,Delhi,152776,13.76,False,258.33,4. Stable
+North Goa,8229.28,Goa,54324,15.15,False,294.53,4. Stable
+South Goa,3983.17,Goa,35878,11.1,False,189.06,4. Stable
+Ahmadabad,249778.12,Gujarat,603450,41.39,False,977.86,4. Stable
+Amreli,2346.51,Gujarat,34150,6.87,False,78.91,4. Stable
+Anand,6571.91,Gujarat,75290,8.73,False,127.34,4. Stable
+Arvalli,922.52,Gujarat,22163,4.16,False,8.33,4. Stable
+Banas Kantha,4484.52,Gujarat,80271,5.59,False,45.57,4. Stable
+Bharuch,9165.01,Gujarat,69689,13.15,False,242.45,4. Stable
+Bhavnagar,9144.6,Gujarat,87584,10.44,False,171.88,4. Stable
+Botad,1071.11,Gujarat,17439,6.14,False,59.9,4. Stable
+Chhotaudepur,558.47,Gujarat,12103,4.61,False,20.05,4. Stable
+Dang,33.91,Gujarat,2404,1.41,False,-63.28,2. High Gap
+Devbhumi Dwarka,1047.82,Gujarat,17880,5.86,False,52.6,4. Stable
+Dohad,873.6,Gujarat,36074,2.42,True,-36.98,3. Underfunded
+Gandhinagar,9265.22,Gujarat,69981,13.24,False,244.79,4. Stable
+Gir Somnath,1438.1,Gujarat,31277,4.6,False,19.79,4. Stable
+Jamnagar,8781.15,Gujarat,75581,11.62,False,202.6,4. Stable
+Junagadh,3197.66,Gujarat,55897,5.72,False,48.96,4. Stable
+Kachchh,14404.77,Gujarat,114502,12.58,False,227.6,4. Stable
+Kheda,2442.43,Gujarat,56092,4.35,False,13.28,4. Stable
+Mahesana,8813.99,Gujarat,68969,12.78,False,232.81,4. Stable
+Mahisagar,381.05,Gujarat,14030,2.72,False,-29.17,3. Underfunded
+Morbi,20221.82,Gujarat,58149,34.78,False,805.73,4. Stable
+Narmada,284.05,Gujarat,8591,3.31,True,-13.8,3. Underfunded
+Navsari,2698.59,Gujarat,43971,6.14,False,59.9,4. Stable
+Panch Mahals,1981.67,Gujarat,36428,5.44,False,41.67,4. Stable
+Patan,1142.21,Gujarat,31605,3.61,False,-5.99,3. Underfunded
+Porbandar,1188.38,Gujarat,20397,5.83,False,51.82,4. Stable
+Rajkot,42625.05,Gujarat,280540,15.19,False,295.57,4. Stable
+Sabar Kantha,3986.04,Gujarat,42043,9.48,False,146.88,4. Stable
+Surat,85358.24,Gujarat,588465,14.51,False,277.86,4. Stable
+Surendranagar,3283.48,Gujarat,46551,7.05,False,83.59,4. Stable
+Tapi,353.06,Gujarat,13708,2.58,False,-32.81,3. Underfunded
+Vadodara,54043.16,Gujarat,222917,24.24,False,531.25,4. Stable
+Valsad,13107.26,Gujarat,88333,14.84,False,286.46,4. Stable
+Ambala,7206.84,Haryana,66108,10.9,False,183.85,4. Stable
+Bhiwani,2607.9,Haryana,49396,5.28,False,37.5,4. Stable
+Charki Dadri,909.28,Haryana,11668,7.79,False,102.86,4. Stable
+Faridabad,29487.8,Haryana,149002,19.79,False,415.36,4. Stable
+Fatehabad,2510.37,Haryana,45120,5.56,False,44.79,4. Stable
+Gurugram,160626.52,Haryana,180980,88.75,False,2211.2,4. Stable
+Hisar,11625.19,Haryana,86017,13.51,False,251.82,4. Stable
+Jhajjar,5460.54,Haryana,37463,14.58,False,279.69,4. Stable
+Jind,2863.54,Haryana,56163,5.1,False,32.81,4. Stable
+Kaithal,3910.64,Haryana,59107,6.62,False,72.4,4. Stable
+Karnal,17461.07,Haryana,102902,16.97,False,341.93,4. Stable
+Kurukshetra,3329.84,Haryana,67196,4.96,False,29.17,4. Stable
+Mahendragarh,1495.98,Haryana,31541,4.74,False,23.44,4. Stable
+Nuh,479.35,Haryana,35982,1.33,True,-65.36,1. Critical (Aspirational Desert)
+Palwal,1769.11,Haryana,38002,4.66,False,21.35,4. Stable
+Panchkula,9903.37,Haryana,36205,27.35,False,612.24,4. Stable
+Panipat,19701.16,Haryana,87321,22.56,False,487.5,4. Stable
+Rewari,4594.38,Haryana,37377,12.29,False,220.05,4. Stable
+Rohtak,7147.7,Haryana,47461,15.06,False,292.19,4. Stable
+Sirsa,4081.52,Haryana,61744,6.61,False,72.14,4. Stable
+Sonipat,8947.93,Haryana,67712,13.21,False,244.01,4. Stable
+Yamunanagar,6928.02,Haryana,69062,10.03,False,161.2,4. Stable
+Bilaspur,684.38,Chhattisgarh,65231,1.05,False,-72.66,2. High Gap
+Bilaspur,684.38,Himachal Pradesh,13609,5.03,False,30.99,4. Stable
+Chamba,595.55,Himachal Pradesh,12395,4.8,True,25.0,4. Stable
+Hamirpur,913.94,Himachal Pradesh,15933,5.74,False,49.48,4. Stable
+Hamirpur,913.94,Uttar Pradesh,19838,4.61,False,20.05,4. Stable
+Kangra,2927.85,Himachal Pradesh,44548,6.57,False,71.09,4. Stable
+Kinnaur,124.98,Himachal Pradesh,3931,3.18,False,-17.19,3. Underfunded
+Kullu,1284.18,Himachal Pradesh,25870,4.96,False,29.17,4. Stable
+Lahul and Spiti,32.43,Himachal Pradesh,1177,2.75,False,-28.39,3. Underfunded
+Mandi,1608.69,Himachal Pradesh,33133,4.86,False,26.56,4. Stable
+Shimla,3950.79,Himachal Pradesh,36385,10.86,False,182.81,4. Stable
+Sirmaur,2872.28,Himachal Pradesh,19782,14.52,False,278.12,4. Stable
+Solan,8098.83,Himachal Pradesh,43571,18.59,False,384.11,4. Stable
+Una,1407.02,Himachal Pradesh,19517,7.21,False,87.76,4. Stable
+Anantnag,2087.87,Jammu and Kashmir,55176,3.78,False,-1.56,3. Underfunded
+Bandipora,432.9,Jammu and Kashmir,18600,2.33,False,-39.32,3. Underfunded
+Baramulla,1990.48,Jammu and Kashmir,51198,3.89,True,1.3,4. Stable
+Budgam,2071.74,Jammu and Kashmir,49848,4.16,False,8.33,4. Stable
+Doda,617.65,Jammu and Kashmir,15942,3.87,False,0.78,4. Stable
+Ganderbal,704.41,Jammu and Kashmir,25960,2.71,False,-29.43,3. Underfunded
+Jammu,9295.35,Jammu and Kashmir,84659,10.98,False,185.94,4. Stable
+Kathua,2422.48,Jammu and Kashmir,26102,9.28,False,141.67,4. Stable
+Kishtwar,397.44,Jammu and Kashmir,9012,4.41,False,14.84,4. Stable
+Kulgam,808.69,Jammu and Kashmir,21239,3.81,False,-0.78,3. Underfunded
+Kupwara,1007.92,Jammu and Kashmir,29824,3.38,True,-11.98,3. Underfunded
+Poonch,443.53,Jammu and Kashmir,12500,3.55,False,-7.55,3. Underfunded
+Pulwama,1827.69,Jammu and Kashmir,35996,5.08,False,32.29,4. Stable
+Rajouri,747.55,Jammu and Kashmir,16992,4.4,False,14.58,4. Stable
+Ramban,352.14,Jammu and Kashmir,11816,2.98,False,-22.4,3. Underfunded
+Reasi,568.04,Jammu and Kashmir,11108,5.11,False,33.07,4. Stable
+Samba,2238.71,Jammu and Kashmir,16166,13.85,False,260.68,4. Stable
+Shopian,831.2,Jammu and Kashmir,15447,5.38,False,40.1,4. Stable
+Srinagar,6980.26,Jammu and Kashmir,90711,7.7,False,100.52,4. Stable
+Udhampur,737.36,Jammu and Kashmir,17493,4.22,False,9.9,4. Stable
+Bokaro,3818.84,Jharkhand,61724,6.19,True,61.2,4. Stable
+Chatra,330.38,Jharkhand,22566,1.46,True,-61.98,1. Critical (Aspirational Desert)
+Deoghar,1711.55,Jharkhand,36280,4.72,False,22.92,4. Stable
+Dhanbad,6952.22,Jharkhand,82198,8.46,False,120.31,4. Stable
+Dumka,767.43,Jharkhand,20536,3.74,True,-2.6,3. Underfunded
+East Singhbum,13392.72,Jharkhand,79575,16.83,True,338.28,4. Stable
+Garhwa,323.68,Jharkhand,18977,1.71,True,-55.47,1. Critical (Aspirational Desert)
+Giridih,2329.59,Jharkhand,53027,4.39,True,14.32,4. Stable
+Godda,529.78,Jharkhand,20576,2.57,True,-33.07,3. Underfunded
+Gumla,306.14,Jharkhand,12310,2.49,True,-35.16,3. Underfunded
+Hazaribagh,2451.87,Jharkhand,55897,4.39,True,14.32,4. Stable
+Jamtara,178.22,Jharkhand,11366,1.57,False,-59.11,2. High Gap
+Khunti,221.34,Jharkhand,7507,2.95,True,-23.18,3. Underfunded
+Koderma,790.83,Jharkhand,22522,3.51,False,-8.59,3. Underfunded
+Latehar,316.24,Jharkhand,11603,2.73,True,-28.91,3. Underfunded
+Lohardaga,274.4,Jharkhand,11080,2.48,True,-35.42,3. Underfunded
+Pakur,530.81,Jharkhand,11368,4.67,True,21.61,4. Stable
+Palamu,976.94,Jharkhand,30260,3.23,True,-15.89,3. Underfunded
+Ramgarh,1544.39,Jharkhand,31432,4.91,True,27.86,4. Stable
+Ranchi,21987.14,Jharkhand,129007,17.04,True,343.75,4. Stable
+Sahebganj,389.98,Jharkhand,16501,2.36,True,-38.54,3. Underfunded
+Saraikela Kharsawan,2070.75,Jharkhand,26312,7.87,False,104.95,4. Stable
+Simdega,157.53,Jharkhand,7513,2.1,True,-45.31,3. Underfunded
+West Singhbhum,3082.87,Jharkhand,23391,13.18,True,243.23,4. Stable
+Bagalkote,2184.5,Karnataka,60811,3.59,False,-6.51,3. Underfunded
+Ballari,6490.73,Karnataka,59826,10.85,False,182.55,4. Stable
+Belagavi,9853.73,Karnataka,177767,5.54,False,44.27,4. Stable
+Bengaluru Rural,10023.76,Karnataka,119015,8.42,False,119.27,4. Stable
+Bengaluru Urban,399626.81,Karnataka,663760,60.21,False,1467.97,4. Stable
+Bidar,1559.22,Karnataka,49806,3.13,False,-18.49,3. Underfunded
+Chamarajanagara,728.33,Karnataka,28291,2.57,False,-33.07,3. Underfunded
+Chikkaballapura,1209.94,Karnataka,46567,2.6,False,-32.29,3. Underfunded
+Chikkamagaluru,2097.12,Karnataka,40681,5.16,False,34.38,4. Stable
+Chitradurga,1854.21,Karnataka,49432,3.75,False,-2.34,3. Underfunded
+Dakshina Kannada,15971.01,Karnataka,99823,16.0,False,316.67,4. Stable
+Davangere,3811.21,Karnataka,67852,5.62,False,46.35,4. Stable
+Dharwad,15380.42,Karnataka,94092,16.35,False,325.78,4. Stable
+Gadag,1050.34,Karnataka,34483,3.05,True,-20.57,3. Underfunded
+Hassan,2919.0,Karnataka,68112,4.29,False,11.72,4. Stable
+Haveri,2824.13,Karnataka,54444,5.19,False,35.16,4. Stable
+Kalaburagi,5384.58,Karnataka,65487,8.22,True,114.06,4. Stable
+Kodagu,1814.8,Karnataka,21471,8.45,False,120.05,4. Stable
+Kolar,1977.51,Karnataka,55352,3.57,False,-7.03,3. Underfunded
+Koppal,2005.97,Karnataka,37546,5.34,False,39.06,4. Stable
+Mandya,1960.74,Karnataka,60311,3.25,False,-15.36,3. Underfunded
+Mysuru,11465.35,Karnataka,147671,7.76,False,102.08,4. Stable
+Raichur,3808.83,Karnataka,48506,7.85,False,104.43,4. Stable
+Ramanagara,2448.91,Karnataka,46370,5.28,False,37.5,4. Stable
+Shivamogga,4315.51,Karnataka,71873,6.0,False,56.25,4. Stable
+Tumakuru,4148.29,Karnataka,100954,4.11,False,7.03,4. Stable
+Udupi,5602.48,Karnataka,58858,9.52,False,147.92,4. Stable
+Uttara Kannada,1811.66,Karnataka,54953,3.3,False,-14.06,3. Underfunded
+Vijayapura,5061.96,Karnataka,66219,7.64,False,98.96,4. Stable
+Yadgir,906.03,Karnataka,28122,3.22,False,-16.15,3. Underfunded
+Alappuzha,4802.11,Kerala,63609,7.55,False,96.61,4. Stable
+Ernakulam,48468.3,Kerala,148628,32.61,False,749.22,4. Stable
+Idukki,1930.94,Kerala,37687,5.12,False,33.33,4. Stable
+Kannur,4393.8,Kerala,79515,5.53,False,44.01,4. Stable
+Kasaragod,2193.24,Kerala,38809,5.65,False,47.14,4. Stable
+Kollam,7101.49,Kerala,74768,9.5,False,147.4,4. Stable
+Kottayam,6610.41,Kerala,60348,10.95,False,185.16,4. Stable
+Kozhikode,12649.01,Kerala,105232,12.02,False,213.02,4. Stable
+Malappuram,5340.26,Kerala,101445,5.26,False,36.98,4. Stable
+Palakkad,5469.57,Kerala,90668,6.03,False,57.03,4. Stable
+Pathanamthitta,2319.97,Kerala,35994,6.45,False,67.97,4. Stable
+Thiruvananthapuram,29203.46,Kerala,131880,22.14,False,476.56,4. Stable
+Thrissur,13762.22,Kerala,105572,13.04,False,239.58,4. Stable
+Wayanad,1370.3,Kerala,29610,4.63,True,20.57,4. Stable
+Kargil,227.73,Ladakh,5509,4.13,False,7.55,4. Stable
+Leh Ladakh,849.04,Ladakh,9197,9.23,False,140.36,4. Stable
+Lakshadweep District,29.81,Lakshadweep,1551,1.92,False,-50.0,3. Underfunded
+Agar-Malwa,724.03,Madhya Pradesh,27760,2.61,False,-32.03,3. Underfunded
+Alirajpur,237.16,Madhya Pradesh,10408,2.28,False,-40.63,3. Underfunded
+Anuppur,309.35,Madhya Pradesh,14185,2.18,False,-43.23,3. Underfunded
+Ashoknagar,681.03,Madhya Pradesh,25402,2.68,False,-30.21,3. Underfunded
+Balaghat,1428.63,Madhya Pradesh,41992,3.4,False,-11.46,3. Underfunded
+Barwani,1948.18,Madhya Pradesh,31797,6.13,True,59.64,4. Stable
+Betul,1595.36,Madhya Pradesh,42740,3.73,False,-2.86,3. Underfunded
+Bhind,678.92,Madhya Pradesh,28614,2.37,False,-38.28,3. Underfunded
+Bhopal,64700.4,Madhya Pradesh,155875,41.51,False,980.99,4. Stable
+Burhanpur,935.27,Madhya Pradesh,24408,3.83,False,-0.26,3. Underfunded
+Chhatarpur,1295.67,Madhya Pradesh,36235,3.58,True,-6.77,3. Underfunded
+Chhindwara,2489.16,Madhya Pradesh,63779,3.9,False,1.56,4. Stable
+Damoh,669.51,Madhya Pradesh,24647,2.72,True,-29.17,3. Underfunded
+Datia,473.13,Madhya Pradesh,19299,2.45,False,-36.2,3. Underfunded
+Dewas,3003.66,Madhya Pradesh,67293,4.46,False,16.15,4. Stable
+Dhar,4166.52,Madhya Pradesh,74401,5.6,False,45.83,4. Stable
+Dindori,175.02,Madhya Pradesh,10533,1.66,False,-56.77,2. High Gap
+Guna,1535.9,Madhya Pradesh,48116,3.19,True,-16.93,3. Underfunded
+Gwalior,9386.61,Madhya Pradesh,105315,8.91,False,132.03,4. Stable
+Harda,753.62,Madhya Pradesh,17851,4.22,False,9.9,4. Stable
+Indore,55741.11,Madhya Pradesh,269373,20.69,False,438.8,4. Stable
+Jabalpur,14550.29,Madhya Pradesh,94091,15.46,False,302.6,4. Stable
+Jhabua,801.48,Madhya Pradesh,23889,3.36,False,-12.5,3. Underfunded
+Katni,2616.5,Madhya Pradesh,30823,8.49,False,121.09,4. Stable
+Khandwa (East Nimar),1745.59,Madhya Pradesh,34774,5.02,True,30.73,4. Stable
+Khargone (West Nimar),2230.63,Madhya Pradesh,54571,4.09,False,6.51,4. Stable
+Maihar,355.2,Madhya Pradesh,3261,10.89,False,183.59,4. Stable
+Mandla,686.17,Madhya Pradesh,19967,3.44,False,-10.42,3. Underfunded
+Mandsaur,2372.19,Madhya Pradesh,67735,3.5,False,-8.85,3. Underfunded
+Mauganj,92.36,Madhya Pradesh,2913,3.17,False,-17.45,3. Underfunded
+Morena,2025.74,Madhya Pradesh,43957,4.61,False,20.05,4. Stable
+Narmadapuram,2876.61,Madhya Pradesh,37724,7.63,False,98.7,4. Stable
+Narsimhapur,1377.9,Madhya Pradesh,30585,4.51,False,17.45,4. Stable
+Neemuch,2062.12,Madhya Pradesh,36833,5.6,False,45.83,4. Stable
+Niwari,84.99,Madhya Pradesh,5489,1.55,False,-59.64,2. High Gap
+Pandhurna,540.41,Madhya Pradesh,3280,16.48,False,329.17,4. Stable
+Panna,267.1,Madhya Pradesh,16867,1.58,False,-58.85,2. High Gap
+Raisen,1990.76,Madhya Pradesh,37247,5.34,False,39.06,4. Stable
+Rajgarh,1457.55,Madhya Pradesh,68081,2.14,True,-44.27,3. Underfunded
+Ratlam,4298.57,Madhya Pradesh,65883,6.52,False,69.79,4. Stable
+Rewa,2797.41,Madhya Pradesh,52127,5.37,False,39.84,4. Stable
+Sagar,2208.33,Madhya Pradesh,63967,3.45,False,-10.16,3. Underfunded
+Satna,3215.09,Madhya Pradesh,46266,6.95,False,80.99,4. Stable
+Sehore,1711.51,Madhya Pradesh,52884,3.24,False,-15.62,3. Underfunded
+Seoni,970.16,Madhya Pradesh,31788,3.05,False,-20.57,3. Underfunded
+Shahdol,895.53,Madhya Pradesh,22923,3.91,False,1.82,4. Stable
+Shajapur,1246.23,Madhya Pradesh,43693,2.85,False,-25.78,3. Underfunded
+Sheopur,272.92,Madhya Pradesh,9842,2.77,False,-27.86,3. Underfunded
+Shivpuri,1227.28,Madhya Pradesh,36147,3.4,False,-11.46,3. Underfunded
+Sidhi,851.01,Madhya Pradesh,18934,4.49,False,16.93,4. Stable
+Singrauli,1156.7,Madhya Pradesh,24871,4.65,True,21.09,4. Stable
+Tikamgarh,628.97,Madhya Pradesh,19516,3.22,False,-16.15,3. Underfunded
+Ujjain,4738.98,Madhya Pradesh,102951,4.6,False,19.79,4. Stable
+Umaria,278.46,Madhya Pradesh,9601,2.9,False,-24.48,3. Underfunded
+Vidisha,1371.16,Madhya Pradesh,48719,2.81,True,-26.82,3. Underfunded
+Ahmednagar,8169.62,Maharashtra,285860,2.86,False,-25.52,3. Underfunded
+Akola,3355.28,Maharashtra,90101,3.72,False,-3.12,3. Underfunded
+Amravati,5193.76,Maharashtra,133786,3.88,False,1.04,4. Stable
+Beed,2208.86,Maharashtra,119345,1.85,False,-51.82,2. High Gap
+Bhandara,1025.94,Maharashtra,64594,1.59,False,-58.59,2. High Gap
+Buldhana,2559.63,Maharashtra,116635,2.19,False,-42.97,3. Underfunded
+Chandrapur,3760.19,Maharashtra,86751,4.33,False,12.76,4. Stable
+Chhatrapati Sambhajinagar,17463.13,Maharashtra,285198,6.12,False,59.38,4. Stable
+Dharashiv,1648.8,Maharashtra,86934,1.9,True,-50.52,1. Critical (Aspirational Desert)
+Dhule,3119.88,Maharashtra,72699,4.29,False,11.72,4. Stable
+Gadchiroli,524.83,Maharashtra,27570,1.9,True,-50.52,1. Critical (Aspirational Desert)
+Gondia,1849.89,Maharashtra,57687,3.21,False,-16.41,3. Underfunded
+Hingoli,592.55,Maharashtra,42875,1.38,False,-64.06,2. High Gap
+Jalgaon,6370.28,Maharashtra,189357,3.36,True,-12.5,3. Underfunded
+Jalna,3269.09,Maharashtra,104523,3.13,False,-18.49,3. Underfunded
+Kolhapur,17080.58,Maharashtra,285879,5.97,False,55.47,4. Stable
+Latur,5339.75,Maharashtra,122858,4.35,False,13.28,4. Stable
+Mumbai,1231336.32,Maharashtra,411844,298.98,False,7685.94,4. Stable
+Nagpur,38352.2,Maharashtra,327472,11.71,False,204.95,4. Stable
+Nanded,3840.89,Maharashtra,124504,3.08,False,-19.79,3. Underfunded
+Nandurbar,727.85,Maharashtra,39540,1.84,True,-52.08,1. Critical (Aspirational Desert)
+Nashik,22480.39,Maharashtra,381537,5.89,False,53.39,4. Stable
+Palghar,4705.13,Maharashtra,226324,2.08,False,-45.83,3. Underfunded
+Parbhani,1593.11,Maharashtra,73470,2.17,False,-43.49,3. Underfunded
+Pune,155102.91,Maharashtra,1086267,14.28,False,271.88,4. Stable
+Raigad,8315.1,Maharashtra,247000,3.37,False,-12.24,3. Underfunded
+Ratnagiri,2828.71,Maharashtra,87897,3.22,False,-16.15,3. Underfunded
+Sangli,7914.44,Maharashtra,176840,4.48,False,16.67,4. Stable
+Satara,6001.24,Maharashtra,185339,3.24,False,-15.62,3. Underfunded
+Sindhudurg,1011.07,Maharashtra,57171,1.77,False,-53.91,2. High Gap
+Solapur,7764.97,Maharashtra,269758,2.88,False,-25.0,3. Underfunded
+Thane,68952.36,Maharashtra,734230,9.39,False,144.53,4. Stable
+Wardha,2726.47,Maharashtra,71163,3.83,False,-0.26,3. Underfunded
+Washim,994.76,Maharashtra,45934,2.17,False,-43.49,3. Underfunded
+Yavatmal,2699.12,Maharashtra,93461,2.89,False,-24.74,3. Underfunded
+Bishnupur,72.08,Manipur,15032,0.48,False,-87.5,2. High Gap
+Chandel,8.34,Manipur,2097,0.4,True,-89.58,1. Critical (Aspirational Desert)
+Churachandpur,116.04,Manipur,6027,1.93,False,-49.74,3. Underfunded
+Imphal East,272.45,Manipur,29549,0.92,False,-76.04,2. High Gap
+Imphal West,1193.8,Manipur,35490,3.36,False,-12.5,3. Underfunded
+Jiribam,3.04,Manipur,602,0.51,False,-86.72,2. High Gap
+Kakching,56.89,Manipur,6453,0.88,False,-77.08,2. High Gap
+Kamjong,6.77,Manipur,728,0.93,False,-75.78,2. High Gap
+Kangpokpi,30.24,Manipur,3092,0.98,False,-74.48,2. High Gap
+Noney,7.79,Manipur,1369,0.57,False,-85.16,2. High Gap
+Senapati,81.83,Manipur,5421,1.51,False,-60.68,2. High Gap
+Tamenglong,13.43,Manipur,1791,0.75,False,-80.47,2. High Gap
+Tengnoupal,12.12,Manipur,1434,0.85,False,-77.86,2. High Gap
+Thoubal,150.86,Manipur,15364,0.98,False,-74.48,2. High Gap
+Ukhrul,24.83,Manipur,3183,0.78,False,-79.69,2. High Gap
+East Garo Hills,39.75,Meghalaya,2970,1.34,False,-65.1,2. High Gap
+East Jaintia Hills,110.72,Meghalaya,3937,2.81,False,-26.82,3. Underfunded
+East Khasi Hills,3787.76,Meghalaya,17240,21.97,False,472.14,4. Stable
+Eastern West Khasi Hills,21.14,Meghalaya,1074,1.97,False,-48.7,3. Underfunded
+North Garo Hills,24.59,Meghalaya,2348,1.05,False,-72.66,2. High Gap
+Ri Bhoi,887.42,Meghalaya,4956,17.91,True,366.41,4. Stable
+South Garo Hills,18.77,Meghalaya,2511,0.75,False,-80.47,2. High Gap
+South West Garo Hills,44.66,Meghalaya,2506,1.78,False,-53.65,2. High Gap
+South West Khasi Hills,37.07,Meghalaya,1831,2.02,False,-47.4,3. Underfunded
+West Garo Hills,255.48,Meghalaya,10414,2.45,False,-36.2,3. Underfunded
+West Jaintia Hills,243.26,Meghalaya,5317,4.58,False,19.27,4. Stable
+West Khasi Hills,50.22,Meghalaya,2614,1.92,False,-50.0,3. Underfunded
+Aizawl,1475.05,Mizoram,20141,7.32,False,90.63,4. Stable
+Champhai,86.13,Mizoram,2691,3.2,False,-16.67,3. Underfunded
+Hnahthial,22.19,Mizoram,487,4.56,False,18.75,4. Stable
+Khawzawl,28.31,Mizoram,574,4.93,False,28.39,4. Stable
+Kolasib,92.82,Mizoram,3072,3.02,False,-21.35,3. Underfunded
+Lawngtlai,58.06,Mizoram,1363,4.26,False,10.94,4. Stable
+Lunglei,149.01,Mizoram,3497,4.26,False,10.94,4. Stable
+Mamit,57.74,Mizoram,1413,4.09,True,6.51,4. Stable
+Saitual,35.95,Mizoram,899,4.0,False,4.17,4. Stable
+Serchhip,77.69,Mizoram,2523,3.08,False,-19.79,3. Underfunded
+Siaha,32.03,Mizoram,638,5.02,False,30.73,4. Stable
+Chumoukedima,90.26,Nagaland,3419,2.64,False,-31.25,3. Underfunded
+Dimapur,1061.99,Nagaland,14181,7.49,False,95.05,4. Stable
+Kiphire,10.39,Nagaland,1441,0.72,True,-81.25,1. Critical (Aspirational Desert)
+Kohima,321.63,Nagaland,7612,4.23,False,10.16,4. Stable
+Longleng,10.53,Nagaland,1226,0.86,False,-77.6,2. High Gap
+Mokokchung,68.44,Nagaland,3505,1.95,False,-49.22,3. Underfunded
+Mon,28.98,Nagaland,3240,0.89,False,-76.82,2. High Gap
+Niuland,4.17,Nagaland,1033,0.4,False,-89.58,2. High Gap
+Noklak,2.28,Nagaland,618,0.37,False,-90.36,2. High Gap
+Peren,12.8,Nagaland,1688,0.76,False,-80.21,2. High Gap
+Phek,19.02,Nagaland,2461,0.77,False,-79.95,2. High Gap
+Shamator,3.01,Nagaland,581,0.52,False,-86.46,2. High Gap
+Tseminyu,6.81,Nagaland,582,1.17,False,-69.53,2. High Gap
+Tuensang,14.94,Nagaland,2095,0.71,False,-81.51,2. High Gap
+Wokha,41.74,Nagaland,3013,1.39,False,-63.8,2. High Gap
+Zunheboto,30.87,Nagaland,2119,1.46,False,-61.98,2. High Gap
+Anugul,4826.66,Odisha,44875,10.76,False,180.21,4. Stable
+Balangir,1735.55,Odisha,44858,3.87,True,0.78,4. Stable
+Baleshwar,4169.04,Odisha,88437,4.71,False,22.66,4. Stable
+Bargarh,1739.63,Odisha,50887,3.42,False,-10.94,3. Underfunded
+Bhadrak,1834.06,Odisha,58210,3.15,False,-17.97,3. Underfunded
+Boudh,283.32,Odisha,12276,2.31,False,-39.84,3. Underfunded
+Cuttack,9190.51,Odisha,117471,7.82,False,103.65,4. Stable
+Deogarh,166.02,Odisha,8985,1.85,False,-51.82,2. High Gap
+Dhenkanal,1478.62,Odisha,38970,3.79,True,-1.3,3. Underfunded
+Gajapati,245.54,Odisha,12163,2.02,True,-47.4,3. Underfunded
+Ganjam,5494.33,Odisha,110354,4.98,False,29.69,4. Stable
+Jagatsinghapur,2022.52,Odisha,41637,4.86,False,26.56,4. Stable
+Jajapur,3159.23,Odisha,58613,5.39,False,40.36,4. Stable
+Jharsuguda,2297.66,Odisha,22205,10.35,False,169.53,4. Stable
+Kalahandi,1091.7,Odisha,34853,3.13,True,-18.49,3. Underfunded
+Kandhamal,273.07,Odisha,16077,1.7,True,-55.73,1. Critical (Aspirational Desert)
+Kendrapara,918.68,Odisha,46768,1.96,False,-48.96,3. Underfunded
+Kendujhar,3779.58,Odisha,51202,7.38,False,92.19,4. Stable
+Khordha,72844.79,Odisha,155006,46.99,False,1123.7,4. Stable
+Koraput,1243.59,Odisha,34702,3.58,True,-6.77,3. Underfunded
+Malkangiri,271.8,Odisha,15481,1.76,True,-54.17,1. Critical (Aspirational Desert)
+Mayurbhanj,2345.03,Odisha,56804,4.13,False,7.55,4. Stable
+Nabarangpur,472.98,Odisha,19576,2.42,True,-36.98,3. Underfunded
+Nayagarh,852.98,Odisha,36027,2.37,False,-38.28,3. Underfunded
+Nuapada,351.41,Odisha,16141,2.18,True,-43.23,3. Underfunded
+Puri,1975.72,Odisha,77641,2.54,False,-33.85,3. Underfunded
+Rayagada,757.37,Odisha,20427,3.71,True,-3.39,3. Underfunded
+Sambalpur,4810.62,Odisha,35647,13.5,False,251.56,4. Stable
+Sonepur,414.29,Odisha,22975,1.8,False,-53.12,2. High Gap
+Sundargarh,8649.69,Odisha,60615,14.27,False,271.61,4. Stable
+Karaikal,535.03,Puducherry,10143,5.27,False,37.24,4. Stable
+Pondicherry,5526.85,Puducherry,53283,10.37,False,170.05,4. Stable
+Amritsar,13929.23,Punjab,137260,10.15,False,164.32,4. Stable
+Barnala,1341.13,Punjab,34447,3.89,False,1.3,4. Stable
+Bathinda,8197.45,Punjab,74547,11.0,False,186.46,4. Stable
+Faridkot,1479.14,Punjab,33965,4.35,False,13.28,4. Stable
+Fatehgarh Sahib,5513.13,Punjab,34233,16.1,False,319.27,4. Stable
+Fazilka,2630.08,Punjab,43866,6.0,False,56.25,4. Stable
+Ferozepur,3865.73,Punjab,48093,8.04,True,109.37,4. Stable
+Gurdaspur,2311.19,Punjab,61561,3.75,False,-2.34,3. Underfunded
+Hoshiarpur,3196.54,Punjab,69241,4.62,False,20.31,4. Stable
+Jalandhar,14085.02,Punjab,156057,9.03,False,135.16,4. Stable
+Kapurthala,2460.13,Punjab,49527,4.97,False,29.43,4. Stable
+Ludhiana,66096.57,Punjab,287445,22.99,False,498.7,4. Stable
+Malerkotla,954.76,Punjab,16081,5.94,False,54.69,4. Stable
+Mansa,1548.57,Punjab,31784,4.87,False,26.82,4. Stable
+Moga,2454.78,Punjab,57988,4.23,True,10.16,4. Stable
+Pathankot,1775.7,Punjab,26067,6.81,False,77.34,4. Stable
+Patiala,14396.05,Punjab,125058,11.51,False,199.74,4. Stable
+Rupnagar,1550.48,Punjab,31977,4.85,False,26.3,4. Stable
+S.A.S Nagar,20764.64,Punjab,123549,16.81,False,337.76,4. Stable
+Sangrur,4217.57,Punjab,69001,6.11,False,59.11,4. Stable
+Shahid Bhagat Singh Nagar,738.05,Punjab,32281,2.29,False,-40.36,3. Underfunded
+Sri Muktsar Sahib,2060.52,Punjab,40319,5.11,False,33.07,4. Stable
+Tarn Taran,920.9,Punjab,38423,2.4,False,-37.5,3. Underfunded
+Ajmer,11463.44,Rajasthan,155735,7.36,False,91.67,4. Stable
+Alwar,5447.6,Rajasthan,144582,3.77,False,-1.82,3. Underfunded
+Balotra,2797.19,Rajasthan,10138,27.59,False,618.49,4. Stable
+Banswara,1585.05,Rajasthan,41250,3.84,False,0.0,4. Stable
+Baran,988.3,Rajasthan,34071,2.9,True,-24.48,3. Underfunded
+Barmer,2386.43,Rajasthan,73618,3.24,False,-15.62,3. Underfunded
+Beawar,1959.44,Rajasthan,13317,14.71,False,283.07,4. Stable
+Bharatpur,1994.0,Rajasthan,56819,3.51,False,-8.59,3. Underfunded
+Bhilwara,16645.77,Rajasthan,137461,12.11,False,215.36,4. Stable
+Bikaner,9392.07,Rajasthan,124376,7.55,False,96.61,4. Stable
+Bundi,1466.5,Rajasthan,37525,3.91,False,1.82,4. Stable
+Chittorgarh,3749.74,Rajasthan,74410,5.04,False,31.25,4. Stable
+Churu,2589.95,Rajasthan,79431,3.26,False,-15.1,3. Underfunded
+Dausa,1376.13,Rajasthan,56089,2.45,False,-36.2,3. Underfunded
+Deeg,273.5,Rajasthan,7813,3.5,False,-8.85,3. Underfunded
+Dholpur,794.66,Rajasthan,23583,3.37,True,-12.24,3. Underfunded
+Didwana Kuchaman,1588.02,Rajasthan,18733,8.48,False,120.83,4. Stable
+Dungarpur,903.33,Rajasthan,32975,2.74,False,-28.65,3. Underfunded
+Ganganagar,5162.18,Rajasthan,113395,4.55,False,18.49,4. Stable
+Hanumangarh,3216.67,Rajasthan,80165,4.01,False,4.43,4. Stable
+Jaipur,97680.03,Rajasthan,606847,16.1,False,319.27,4. Stable
+Jaisalmer,889.62,Rajasthan,26119,3.41,True,-11.2,3. Underfunded
+Jalore,1164.47,Rajasthan,46405,2.51,False,-34.64,3. Underfunded
+Jhalawar,1391.99,Rajasthan,48525,2.87,False,-25.26,3. Underfunded
+Jhunjhunu,2549.86,Rajasthan,87826,2.9,False,-24.48,3. Underfunded
+Jodhpur,17819.27,Rajasthan,199676,8.92,False,132.29,4. Stable
+Karauli,583.29,Rajasthan,27504,2.12,True,-44.79,3. Underfunded
+Khairthal-Tijara,5108.16,Rajasthan,9816,52.04,False,1255.21,4. Stable
+Kota,9374.84,Rajasthan,103221,9.08,False,136.46,4. Stable
+Kotputli-Behror,3110.01,Rajasthan,14608,21.29,False,454.43,4. Stable
+Nagaur,2677.4,Rajasthan,110937,2.41,False,-37.24,3. Underfunded
+Pali,3899.74,Rajasthan,83078,4.69,False,22.14,4. Stable
+Phalodi,861.24,Rajasthan,8097,10.64,False,177.08,4. Stable
+Pratapgarh,562.32,Rajasthan,25274,2.22,False,-42.19,3. Underfunded
+Pratapgarh,562.32,Uttar Pradesh,52881,1.06,False,-72.4,2. High Gap
+Rajsamand,2173.8,Rajasthan,55797,3.9,False,1.56,4. Stable
+Sawai Madhopur,762.01,Rajasthan,37974,2.01,False,-47.66,3. Underfunded
+Sikar,3609.28,Rajasthan,130218,2.77,False,-27.86,3. Underfunded
+Sirohi,1300.92,Rajasthan,36296,3.58,True,-6.77,3. Underfunded
+Tonk,1611.92,Rajasthan,51421,3.13,False,-18.49,3. Underfunded
+Udaipur,17950.36,Rajasthan,127301,14.1,False,267.19,4. Stable
+Gangtok,1847.78,Sikkim,9504,19.44,False,406.25,4. Stable
+Gyalshing,22.87,Sikkim,2252,1.02,True,-73.44,1. Critical (Aspirational Desert)
+Mangan,27.98,Sikkim,1301,2.15,False,-44.01,3. Underfunded
+Namchi,152.77,Sikkim,4905,3.11,False,-19.01,3. Underfunded
+Pakyong,77.81,Sikkim,2287,3.4,False,-11.46,3. Underfunded
+Soreng,8.91,Sikkim,1560,0.57,False,-85.16,2. High Gap
+Ariyalur,695.69,Tamil Nadu,33541,2.07,False,-46.09,3. Underfunded
+Chengalpattu,9324.67,Tamil Nadu,107438,8.68,False,126.04,4. Stable
+Chennai,280850.27,Tamil Nadu,451364,62.22,False,1520.31,4. Stable
+Coimbatore,65866.67,Tamil Nadu,310915,21.18,False,451.56,4. Stable
+Cuddalore,4037.47,Tamil Nadu,121721,3.32,False,-13.54,3. Underfunded
+Dharmapuri,2255.63,Tamil Nadu,91024,2.48,False,-35.42,3. Underfunded
+Dindigul,6408.44,Tamil Nadu,113173,5.66,False,47.4,4. Stable
+Erode,17958.43,Tamil Nadu,139737,12.85,False,234.64,4. Stable
+Kallakurichi,1460.72,Tamil Nadu,40466,3.61,False,-5.99,3. Underfunded
+Kanchipuram,9574.86,Tamil Nadu,132078,7.25,False,88.8,4. Stable
+Kanniyakumari,4735.82,Tamil Nadu,108632,4.36,False,13.54,4. Stable
+Karur,5151.12,Tamil Nadu,51771,9.95,False,159.11,4. Stable
+Krishnagiri,9541.93,Tamil Nadu,118714,8.04,False,109.37,4. Stable
+Madurai,17409.72,Tamil Nadu,178695,9.74,False,153.65,4. Stable
+Mayiladuthurai,1013.53,Tamil Nadu,34752,2.92,False,-23.96,3. Underfunded
+Nagapattinam,1155.32,Tamil Nadu,37651,3.07,False,-20.05,3. Underfunded
+Namakkal,10763.94,Tamil Nadu,104420,10.31,False,168.49,4. Stable
+Perambalur,1022.46,Tamil Nadu,22339,4.58,False,19.27,4. Stable
+Pudukkottai,2016.88,Tamil Nadu,73002,2.76,False,-28.13,3. Underfunded
+Ramanathapuram,1305.21,Tamil Nadu,57271,2.28,True,-40.63,3. Underfunded
+Ranipet,2331.98,Tamil Nadu,50818,4.59,False,19.53,4. Stable
+Salem,17473.33,Tamil Nadu,223283,7.83,False,103.91,4. Stable
+Sivaganga,2136.87,Tamil Nadu,58800,3.63,False,-5.47,3. Underfunded
+Tenkasi,2260.03,Tamil Nadu,53415,4.23,False,10.16,4. Stable
+Thanjavur,6054.84,Tamil Nadu,114397,5.29,False,37.76,4. Stable
+The Nilgiris,775.12,Tamil Nadu,37354,2.08,False,-45.83,3. Underfunded
+Theni,3334.0,Tamil Nadu,66984,4.98,False,29.69,4. Stable
+Thiruvallur,7775.06,Tamil Nadu,171034,4.55,False,18.49,4. Stable
+Thiruvarur,1281.74,Tamil Nadu,54501,2.35,False,-38.8,3. Underfunded
+Tiruchirappalli,11241.62,Tamil Nadu,137926,8.15,False,112.24,4. Stable
+Tirunelveli,4248.17,Tamil Nadu,97754,4.35,False,13.28,4. Stable
+Tirupathur,1263.28,Tamil Nadu,57349,2.2,False,-42.71,3. Underfunded
+Tiruppur,31554.59,Tamil Nadu,202075,15.62,False,306.77,4. Stable
+Tiruvannamalai,3192.84,Tamil Nadu,98757,3.23,False,-15.89,3. Underfunded
+Tuticorin,6074.39,Tamil Nadu,90211,6.73,False,75.26,4. Stable
+Vellore,4776.2,Tamil Nadu,110487,4.32,False,12.5,4. Stable
+Villupuram,2301.26,Tamil Nadu,99650,2.31,False,-39.84,3. Underfunded
+Virudhunagar,8589.05,Tamil Nadu,100281,8.56,True,122.92,4. Stable
+Adilabad,1670.5,Telangana,29883,5.59,True,45.57,4. Stable
+Bhadradri Kothagudem,974.45,Telangana,39696,2.45,False,-36.2,3. Underfunded
+Hanumakonda,5975.92,Telangana,48050,12.44,False,223.96,4. Stable
+Hyderabad,330049.47,Telangana,319328,103.36,False,2591.67,4. Stable
+Jagitial,898.71,Telangana,39389,2.28,False,-40.63,3. Underfunded
+Jangoan,467.69,Telangana,20619,2.27,False,-40.89,3. Underfunded
+Jayashankar Bhupalapally,138.85,Telangana,12730,1.09,False,-71.61,2. High Gap
+Jogulamba Gadwal,424.68,Telangana,19128,2.22,False,-42.19,3. Underfunded
+Kamareddy,863.37,Telangana,34133,2.53,False,-34.11,3. Underfunded
+Karimnagar,4067.29,Telangana,70224,5.79,False,50.78,4. Stable
+Khammam,3221.91,Telangana,65977,4.88,True,27.08,4. Stable
+Kumuram Bheem Asifabad,195.75,Telangana,14894,1.31,False,-65.89,2. High Gap
+Mahabubabad,547.32,Telangana,26437,2.07,False,-46.09,3. Underfunded
+Mahabubnagar,1694.6,Telangana,50409,3.36,False,-12.5,3. Underfunded
+Mancherial,1088.11,Telangana,40417,2.69,False,-29.95,3. Underfunded
+Medak,829.03,Telangana,33001,2.51,False,-34.64,3. Underfunded
+Medchal Malkajgiri,30040.16,Telangana,180426,16.65,False,333.59,4. Stable
+Mulugu,87.57,Telangana,7911,1.11,False,-71.09,2. High Gap
+Nagarkurnool,527.35,Telangana,28047,1.88,False,-51.04,2. High Gap
+Nalgonda,3388.16,Telangana,88242,3.84,False,0.0,4. Stable
+Narayanpet,220.52,Telangana,12963,1.7,False,-55.73,2. High Gap
+Nirmal,1008.39,Telangana,30622,3.29,False,-14.32,3. Underfunded
+Nizamabad,3355.58,Telangana,77807,4.31,False,12.24,4. Stable
+Peddapalli,1080.81,Telangana,31901,3.39,False,-11.72,3. Underfunded
+Rajanna Sircilla,450.17,Telangana,28501,1.58,False,-58.85,2. High Gap
+Ranga Reddy,12007.64,Telangana,219552,5.47,False,42.45,4. Stable
+Sangareddy,3269.33,Telangana,66849,4.89,False,27.34,4. Stable
+Siddipet,1311.59,Telangana,51609,2.54,False,-33.85,3. Underfunded
+Suryapet,1979.03,Telangana,48480,4.08,False,6.25,4. Stable
+Vikarabad,611.86,Telangana,31871,1.92,False,-50.0,3. Underfunded
+Wanaparthy,469.8,Telangana,22024,2.13,False,-44.53,3. Underfunded
+Warangal,1376.23,Telangana,47879,2.87,True,-25.26,3. Underfunded
+Yadadri Bhuvanagiri,901.85,Telangana,39507,2.28,False,-40.63,3. Underfunded
+Dadra and Nagar Haveli,2886.92,The Dadra and Nagar Haveli and Daman and Diu,18988,15.2,False,295.83,4. Stable
+Daman,1500.17,The Dadra and Nagar Haveli and Daman and Diu,8839,16.97,False,341.93,4. Stable
+Diu,39.96,The Dadra and Nagar Haveli and Daman and Diu,1138,3.51,False,-8.59,3. Underfunded
+Dhalai,195.98,Tripura,9215,2.13,True,-44.53,3. Underfunded
+Gomati,488.24,Tripura,14537,3.36,False,-12.5,3. Underfunded
+Khowai,174.99,Tripura,9870,1.77,False,-53.91,2. High Gap
+North Tripura,576.36,Tripura,15845,3.64,False,-5.21,3. Underfunded
+Sepahijala,764.6,Tripura,13398,5.71,False,48.7,4. Stable
+South Tripura,408.51,Tripura,12340,3.31,False,-13.8,3. Underfunded
+Unakoti,95.99,Tripura,10123,0.95,False,-75.26,2. High Gap
+West Tripura,3354.92,Tripura,34792,9.64,False,151.04,4. Stable
+Agra,19111.67,Uttar Pradesh,184588,10.35,False,169.53,4. Stable
+Aligarh,5606.77,Uttar Pradesh,110853,5.06,False,31.77,4. Stable
+Ambedkar Nagar,1443.76,Uttar Pradesh,48501,2.98,False,-22.4,3. Underfunded
+Amethi,1524.64,Uttar Pradesh,34462,4.42,False,15.1,4. Stable
+Amroha,1217.56,Uttar Pradesh,38834,3.14,False,-18.23,3. Underfunded
+Auraiya,648.18,Uttar Pradesh,25022,2.59,False,-32.55,3. Underfunded
+Ayodhya,2705.99,Uttar Pradesh,55879,4.84,False,26.04,4. Stable
+Azamgarh,2627.98,Uttar Pradesh,105555,2.49,False,-35.16,3. Underfunded
+Baghpat,732.06,Uttar Pradesh,42865,1.71,False,-55.47,2. High Gap
+Bahraich,2069.97,Uttar Pradesh,46313,4.47,True,16.41,4. Stable
+Ballia,1707.35,Uttar Pradesh,49246,3.47,False,-9.64,3. Underfunded
+Balrampur,696.64,Uttar Pradesh,22982,3.03,True,-21.09,3. Underfunded
+Banda,704.96,Uttar Pradesh,23283,3.03,False,-21.09,3. Underfunded
+Barabanki,2256.69,Uttar Pradesh,55120,4.09,False,6.51,4. Stable
+Bareilly,10251.38,Uttar Pradesh,125534,8.17,False,112.76,4. Stable
+Basti,1554.05,Uttar Pradesh,45130,3.44,False,-10.42,3. Underfunded
+Bhadohi,2009.19,Uttar Pradesh,40030,5.02,False,30.73,4. Stable
+Bijnor,3079.09,Uttar Pradesh,65139,4.73,False,23.18,4. Stable
+Budaun,1358.47,Uttar Pradesh,46797,2.9,False,-24.48,3. Underfunded
+Bulandshahr,2780.13,Uttar Pradesh,82454,3.37,False,-12.24,3. Underfunded
+Chandauli,1772.36,Uttar Pradesh,39800,4.45,True,15.89,4. Stable
+Chitrakoot,390.89,Uttar Pradesh,15306,2.55,True,-33.59,3. Underfunded
+Deoria,2043.06,Uttar Pradesh,56922,3.59,False,-6.51,3. Underfunded
+Etah,1002.53,Uttar Pradesh,32943,3.04,False,-20.83,3. Underfunded
+Etawah,1296.07,Uttar Pradesh,35556,3.65,False,-4.95,3. Underfunded
+Farrukhabad,880.71,Uttar Pradesh,32008,2.75,False,-28.39,3. Underfunded
+Fatehpur,1667.06,Uttar Pradesh,36923,4.51,True,17.45,4. Stable
+Firozabad,2926.18,Uttar Pradesh,64899,4.51,False,17.45,4. Stable
+Gautam Buddha Nagar,60492.78,Uttar Pradesh,208317,29.04,False,656.25,4. Stable
+Ghaziabad,27573.36,Uttar Pradesh,225250,12.24,False,218.75,4. Stable
+Ghazipur,2327.0,Uttar Pradesh,71764,3.24,False,-15.62,3. Underfunded
+Gonda,1363.57,Uttar Pradesh,55437,2.46,False,-35.94,3. Underfunded
+Gorakhpur,10785.59,Uttar Pradesh,115221,9.36,False,143.75,4. Stable
+Hamirpur,540.82,Himachal Pradesh,15933,3.39,False,-11.72,3. Underfunded
+Hamirpur,540.82,Uttar Pradesh,19838,2.73,False,-28.91,3. Underfunded
+Hapur,2522.84,Uttar Pradesh,46124,5.47,False,42.45,4. Stable
+Hardoi,2048.23,Uttar Pradesh,59982,3.41,False,-11.2,3. Underfunded
+Hathras,1367.66,Uttar Pradesh,36255,3.77,False,-1.82,3. Underfunded
+Jalaun,696.2,Uttar Pradesh,29869,2.33,False,-39.32,3. Underfunded
+Jaunpur,2570.51,Uttar Pradesh,87499,2.94,False,-23.44,3. Underfunded
+Jhansi,3546.44,Uttar Pradesh,65341,5.43,False,41.41,4. Stable
+Kannauj,935.58,Uttar Pradesh,28614,3.27,False,-14.84,3. Underfunded
+Kanpur Dehat,844.33,Uttar Pradesh,32520,2.6,False,-32.29,3. Underfunded
+Kanpur Nagar,32569.88,Uttar Pradesh,181231,17.97,False,367.97,4. Stable
+Kasganj,586.52,Uttar Pradesh,23952,2.45,False,-36.2,3. Underfunded
+Kaushambi,637.49,Uttar Pradesh,23733,2.69,False,-29.95,3. Underfunded
+Kheri,2117.08,Uttar Pradesh,53386,3.97,False,3.39,4. Stable
+Kushi Nagar,1559.76,Uttar Pradesh,54667,2.85,False,-25.78,3. Underfunded
+Lalitpur,670.06,Uttar Pradesh,24342,2.75,False,-28.39,3. Underfunded
+Lucknow,62150.02,Uttar Pradesh,262448,23.68,False,516.67,4. Stable
+Mahoba,567.21,Uttar Pradesh,17181,3.3,False,-14.06,3. Underfunded
+Mahrajganj,1995.04,Uttar Pradesh,44779,4.46,False,16.15,4. Stable
+Mainpuri,1625.08,Uttar Pradesh,38428,4.23,False,10.16,4. Stable
+Mathura,5548.94,Uttar Pradesh,106772,5.2,False,35.42,4. Stable
+Mau,1358.94,Uttar Pradesh,58944,2.31,False,-39.84,3. Underfunded
+Meerut,12659.97,Uttar Pradesh,158418,7.99,False,108.07,4. Stable
+Mirzapur,2011.56,Uttar Pradesh,49514,4.06,False,5.73,4. Stable
+Moradabad,8881.71,Uttar Pradesh,103761,8.56,False,122.92,4. Stable
+Muzaffarnagar,7781.51,Uttar Pradesh,89428,8.7,False,126.56,4. Stable
+Pilibhit,1499.6,Uttar Pradesh,43169,3.47,False,-9.64,3. Underfunded
+Pratapgarh,1818.17,Rajasthan,25274,7.19,False,87.24,4. Stable
+Pratapgarh,1818.17,Uttar Pradesh,52881,3.44,False,-10.42,3. Underfunded
+Prayagraj,9714.88,Uttar Pradesh,137768,7.05,False,83.59,4. Stable
+Rae Bareli,2651.47,Uttar Pradesh,58582,4.53,False,17.97,4. Stable
+Rampur,1912.41,Uttar Pradesh,56271,3.4,False,-11.46,3. Underfunded
+Saharanpur,4376.14,Uttar Pradesh,122195,3.58,False,-6.77,3. Underfunded
+Sambhal,1525.0,Uttar Pradesh,40132,3.8,False,-1.04,3. Underfunded
+Sant Kabir Nagar,1050.3,Uttar Pradesh,30549,3.44,False,-10.42,3. Underfunded
+Shahjahanpur,2459.81,Uttar Pradesh,52967,4.64,False,20.83,4. Stable
+Shamli,1324.78,Uttar Pradesh,38265,3.46,False,-9.9,3. Underfunded
+Shrawasti,232.35,Uttar Pradesh,13965,1.66,True,-56.77,1. Critical (Aspirational Desert)
+Siddharth Nagar,940.42,Uttar Pradesh,34939,2.69,True,-29.95,3. Underfunded
+Sitapur,1925.44,Uttar Pradesh,56372,3.42,False,-10.94,3. Underfunded
+Sonbhadra,1698.73,Uttar Pradesh,34522,4.92,True,28.13,4. Stable
+Sultanpur,1556.76,Uttar Pradesh,41946,3.71,False,-3.39,3. Underfunded
+Unnao,1331.54,Uttar Pradesh,46538,2.86,False,-25.52,3. Underfunded
+Varanasi,16904.56,Uttar Pradesh,177249,9.54,False,148.44,4. Stable
+Almora,528.75,Uttarakhand,15042,3.52,False,-8.33,3. Underfunded
+Bageshwar,161.42,Uttarakhand,6045,2.67,False,-30.47,3. Underfunded
+Chamoli,314.53,Uttarakhand,11971,2.63,False,-31.51,3. Underfunded
+Champawat,306.29,Uttarakhand,7905,3.87,False,0.78,4. Stable
+Dehradun,16257.81,Uttarakhand,126335,12.87,False,235.16,4. Stable
+Haridwar,7823.93,Uttarakhand,88771,8.81,True,129.43,4. Stable
+Nainital,4484.27,Uttarakhand,45709,9.81,False,155.47,4. Stable
+Pauri Garhwal,1165.22,Uttarakhand,16462,7.08,False,84.38,4. Stable
+Pithoragarh,388.61,Uttarakhand,12556,3.09,False,-19.53,3. Underfunded
+Rudra Prayag,213.33,Uttarakhand,7113,3.0,False,-21.87,3. Underfunded
+Tehri Garhwal,507.09,Uttarakhand,14707,3.45,False,-10.16,3. Underfunded
+Udam Singh Nagar,10809.18,Uttarakhand,90068,12.0,True,212.5,4. Stable
+Uttar Kashi,275.63,Uttarakhand,9891,2.79,False,-27.34,3. Underfunded
+Alipurduar,1131.57,West Bengal,32731,3.46,False,-9.9,3. Underfunded
+Bankura,2035.46,West Bengal,53371,3.81,False,-0.78,3. Underfunded
+Birbhum,3399.88,West Bengal,72481,4.69,True,22.14,4. Stable
+Coochbehar,2586.73,West Bengal,62260,4.15,False,8.07,4. Stable
+Dakshin Dinajpur,1192.82,West Bengal,30544,3.91,True,1.82,4. Stable
+Darjeeling,9735.68,West Bengal,62380,15.61,False,306.51,4. Stable
+Hooghly,6168.09,West Bengal,121423,5.08,False,32.29,4. Stable
+Howrah,10459.45,West Bengal,129243,8.09,False,110.68,4. Stable
+Jalpaiguri,3568.31,West Bengal,60516,5.9,False,53.65,4. Stable
+Jhargram,478.95,West Bengal,16363,2.93,False,-23.7,3. Underfunded
+Kalimpong,296.35,West Bengal,7710,3.84,False,0.0,4. Stable
+Kolkata,238991.05,West Bengal,195611,122.18,False,3081.77,4. Stable
+Malda,4143.15,West Bengal,89366,4.64,True,20.83,4. Stable
+Murshidabad,6563.11,West Bengal,144545,4.54,True,18.23,4. Stable
+Nadia,4889.87,West Bengal,114266,4.28,True,11.46,4. Stable
+North 24 Parganas,18996.76,West Bengal,260418,7.29,False,89.84,4. Stable
+Paschim Bardhaman,9838.21,West Bengal,75653,13.0,False,238.54,4. Stable
+Paschim Medinipur,5060.89,West Bengal,113773,4.45,False,15.89,4. Stable
+Purba Bardhaman,6248.92,West Bengal,104745,5.97,False,55.47,4. Stable
+Purba Medinipur,5366.45,West Bengal,146186,3.67,False,-4.43,3. Underfunded
+Purulia,1372.42,West Bengal,36507,3.76,False,-2.08,3. Underfunded
+South 24 Parganas,6268.96,West Bengal,181040,3.46,False,-9.9,3. Underfunded
+Uttar Dinajpur,3050.77,West Bengal,62900,4.85,False,26.3,4. Stable
