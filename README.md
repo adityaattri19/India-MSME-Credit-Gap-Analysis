@@ -21,7 +21,7 @@
 
 Apex Commercial Bank is a mid-sized scheduled commercial bank operating across 18 Indian states, with a growing focus on Priority Sector Lending (PSL) compliance and MSME portfolio expansion. The bank's strategy team has identified rural and semi-urban MSME lending as a key growth vertical for FY 2025-26, but lacks a data-driven framework for identifying which districts represent genuine opportunity versus high-risk or already-saturated markets.
 
-This project constructs a district-level credit intelligence model by merging RBI banking disbursement data with Udyam MSME registration records across 775 Indian districts. The goal is to identify **Credit Deserts** — districts where business formation is high but formal bank credit is critically low — and rank them by expansion priority, factoring in government policy designations from NITI Aayog's Aspirational Districts Programme.
+This project constructs a district-level credit intelligence model by merging RBI banking disbursement data with Udyam MSME registration records across 775 Indian districts. The goal is to identify **Credit Deserts** — districts where business formation is high but formal bank credit is critically low and rank them by expansion priority, factoring in government policy designations from NITI Aayog's Aspirational Districts Programme.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -66,7 +66,7 @@ Before merging, the following data quality decisions were made:
 
 ### Overview of Findings
 
-Formal MSME credit in India is structurally concentrated in metro districts, leaving nearly half the country operating below the national median. The national median credit per MSME unit is **₹3.83 Lakhs** against a mean of ₹8.41 Lakhs. 394 of 775 districts (50.8%) fall below this median, with 27 districts receiving more than 75% less credit per MSME than the national benchmark. Geographically, the crisis is concentrated in Northeast and Central India, with Assam (19), Manipur (13), and Nagaland (12) accounting for the highest number of high-gap districts. For Apex Commercial Bank, 101 districts across Tiers 1 and 2 are home to 17 lakh registered MSMEs, representing an immediate, data-backed expansion opportunity.
+Formal MSME credit in India is structurally concentrated in metro districts, leaving nearly half the country operating below the national median. The national median credit per MSME unit is **₹3.83 Lakhs** against a mean of ₹8.41 Lakhs. With 27 districts receiving more than 75% less credit per MSME than the national benchmark. Geographically, the crisis is concentrated in Northeast and Central India, with Assam (19), Manipur (13), and Nagaland (12) accounting for the highest number of high-gap districts. For Apex Commercial Bank, 101 districts across Tiers 1 and 2 are home to 17 lakh registered MSMEs, representing an immediate, data-backed expansion opportunity.
 
 *Below is the overview page from the Power BI dashboard. The full interactive dashboard can be downloaded [here](dashboard/MSME_Analysis_Dashboard.pbix).*
 
@@ -126,7 +126,7 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
  - **NPA data exclusion:** RBI publishes Non-Performing Asset data at the bank and institution level, not at the district level. This model does not account for default risk by geography. Districts flagged as high-opportunity may carry elevated credit risk that is not visible in this analysis. Any expansion decision should incorporate the bank's internal risk assessment alongside these opportunity rankings.
 
- - **District name standardisation:** Government datasets use inconsistent naming conventions across files, reflecting administrative reorganisations over time. Post-2019 bifurcation districts, notably Ladakh, are absent from the map boundary file used in the Power BI dashboard. The analysis covers 775 of approximately 780 to 800 districts depending on the administrative classification used.
+ - **District name standardisation:** Government datasets use inconsistent naming conventions across files, reflecting administrative reorganisations over time. Post-2019 bifurcation districts, notably Ladakh, are absent from the map boundary file used in the Power BI dashboard. The analysis covers 775 of approximately 780 to 800 districts, depending on the administrative classification used.
 
  - **Credit data reporting lag:** RBI's BSR-1 data is state-reported and subject to submission timelines. FY 2024-25 figures may not fully reflect credit disbursed in Q4 of the fiscal year. Supply-side numbers should be treated as directionally accurate rather than precise to the last reporting period.
 
